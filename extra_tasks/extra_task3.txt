@@ -1,0 +1,8 @@
+4) How Tuple is beneficial as compared to the list?
+
+* Tuple is an immutable datatype which does not give any provision to change the data present inside it.
+While list is mutable which means the data inside a list can be easily modified or deleted.
+
+* Iterating through a list is more time consuming than a tuple as lists are mutable. There are several chances through a proggram for a list to be modified. Hence the idexing has to be updated at every occasion.
+
+*Lists require more memory allocation than tuples as they are mutable and are more prone to errors.
